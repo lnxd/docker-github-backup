@@ -29,4 +29,4 @@ To backup public and private repositories you need to select only the **repo** s
 After clicking the **Generate token** button you're presented with the generated token. Remember to store it now, as GitHub won't show it to you anymore!
 
 ## Final notes
-If you notice any bugs, feel free to open an Issue or a pull request. For support with using this on Unraid, you can reach me best via the [support thread](https://forums.unraid.net/topic/104589-support-lnxd-phoenixminer-amd/) on the Unraid Community Forums.
+If you notice any bugs, feel free to open an Issue or a pull request. For support with using this on Unraid, you can reach me best via the [support thread](https://forums.unraid.net/topic/104738-support-lnxd-github-backup/) on the Unraid Community Forums.
